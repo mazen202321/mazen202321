@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mazen and I'm a students of computer system engineering , from palestine </h2>
+<h2 align="left">Hi 👋! My name is Mazen and I'm a students of computer system engineering ,<br> from palestine </h2>
 
 ###
 
