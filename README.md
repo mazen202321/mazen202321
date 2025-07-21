@@ -1,9 +1,27 @@
-<h2 align="left">Hi 👋! My name is Mazen and I'm a students of computer system engineering ,<br> from palestine </h2>
+<h2 align="left">Computer Systems Engineering </h2>
+<pre>
+  About Me
+
+ Hello! I'm a Computer Systems Engineering student with a strong passion for technology, especially in web development and artificial intelligence. I specialize in backend development using PHP with the Laravel framework and have a solid foundation in full-stack development and AI programming.
+
+What I Do Best
+
+🔧 Backend Development: I build secure, scalable, and efficient web applications using PHP (Laravel). I enjoy designing APIs, managing databases, and ensuring backend systems run smoothly.
+
+💻 Frontend Development: I use HTML, CSS, JavaScript, and jQuery to develop clean, responsive, and user-friendly interfaces. I also design UI/UX prototypes using Adobe XD to visualize the user journey.
+
+🧠 AI & Machine Learning: I use Python to develop AI models, including machine learning and basic deep learning applications. I'm exploring how AI can improve digital experiences and decision-making processes.
+
+🛠 Database Management: I work with MySQL to design, implement, and optimize relational databases that support data-heavy applications.
+
+🌐 Full-Stack Projects: From concept to deployment, I build complete web solutions by integrating backend logic, frontend design, and database architecture.
+</pre>
 
 ###
 
 
 ###
+
 <h3>language and tools what I used </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
