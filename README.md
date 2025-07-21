@@ -1,5 +1,5 @@
 <h2 align="left">Computer Systems Engineering </h2>
-<pre>
+<p>
   About Me
 
  Hello! I'm a Computer Systems Engineering student with a strong passion for technology, especially in web development and artificial intelligence. I specialize in backend development using PHP with the Laravel framework and have a solid foundation in full-stack development and AI programming.
@@ -15,7 +15,7 @@ What I Do Best
 🛠 Database Management: I work with MySQL to design, implement, and optimize relational databases that support data-heavy applications.
 
 🌐 Full-Stack Projects: From concept to deployment, I build complete web solutions by integrating backend logic, frontend design, and database architecture.
-</pre>
+</p>
 
 ###
 
